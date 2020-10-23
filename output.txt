@@ -1,0 +1,7 @@
+S-> aADBC|aDBC
+A-> aA|a|bEB|cCEF|cEF
+B-> bEB|cCEF|cEF
+C-> cC|c
+D-> b
+E-> c
+F-> a
